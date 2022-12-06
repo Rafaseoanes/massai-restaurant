@@ -7,11 +7,15 @@ function Header() {
        
         <h2 className='text-yellow-600 text-5xl flex  justify-center font-bold' >massai</h2>
         <h6 className='text-yellow-600 flex  justify-center'   >FOOD & DRINKS</h6>
-        
+        <br/>
+        <br/>
+        <br/>
     <div className='flex justify-center items-center'>
         <h5 className='text-green-900 rotate-[-90deg] absolute  left-8 custom-spacing '>#Bar #massai</h5>
       
         <div className="max-w-xl md:mr-16 text-center md:text-left  " >
+          <img className='w-12' src="https://i.ibb.co/CHhMPPr/Vector-2.png" alt="spoon icon" />
+          <br/>
         <h1 className="text-yellow-500 text-4xl md:text-6xl " >BRUNCH,<br/> LUNCH<br/> & TEATIME</h1>
         <br />
 

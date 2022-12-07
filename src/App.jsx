@@ -1,5 +1,6 @@
 import React from "react";
 import About from "./Components/About";
+import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Igfeed from "./Components/Igfeed";
 
@@ -14,6 +15,7 @@ const App = () => {
     </div>
       <About />
       <Igfeed />
+      <Footer />
 </div>
     
   );

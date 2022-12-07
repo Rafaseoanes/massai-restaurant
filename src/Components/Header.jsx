@@ -11,7 +11,7 @@ function Header() {
         <br/>
         <br/>
     <div className='flex justify-center items-center'>
-        <h5 className='text-green-900 rotate-[-90deg] absolute  left-8 custom-spacing '>#Bar #massai</h5>
+        <h5 className='text-green-900 rotate-[-90deg] absolute  left-8 custom-spacing '>#Brunch #massai</h5>
       
         <div className="max-w-xl md:mr-16 text-center md:text-left  " >
           <img className='w-12' src="https://i.ibb.co/CHhMPPr/Vector-2.png" alt="spoon icon" />

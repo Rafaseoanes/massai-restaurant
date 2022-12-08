@@ -16,7 +16,7 @@ function Header() {
         <div className="max-w-xl md:mr-16 text-center md:text-left  " >
           <img className='w-12' src="https://i.ibb.co/CHhMPPr/Vector-2.png" alt="spoon icon" />
           <br/>
-        <h1 className="text-yellow-500 text-4xl md:text-6xl " >BRUNCH,<br/> LUNCH<br/> & TEATIME</h1>
+        <h1 className="text-yellow-500 text-4xl  md:text-6xl " >BRUNCH,<br/> LUNCH<br/> & TEATIME</h1>
         <br />
 
         <button   className='text-white p-2 w-28 bg-yellow-500 rounded-md drop-shadow-md'>

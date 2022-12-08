@@ -10,7 +10,7 @@ import Coctels from "./Components/Coctels";
 const App = () => {
   return (
 
-<div className="overflow-hidden ">
+<div className="overflow-hidden font-customTitles">
     <div className="bg-header-background bg-cover bg-no-repeat  w-screen h-screen flex  justify-center pt-8" >
       <Header />
     </div>
